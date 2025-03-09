@@ -1,0 +1,3 @@
+"Address","IPAddress","QueryType","IP6Address","Name","Type","CharacterSet","Section","DataLength","TTL"
+"2c0f:fb50:4002:80c::200e","2c0f:fb50:4002:80c::200e","AAAA","2c0f:fb50:4002:80c::200e","google.com","AAAA","Unicode","Answer","16","208"
+"142.251.216.78","142.251.216.78","A",,"google.com","A","Unicode","Answer","4","224"
